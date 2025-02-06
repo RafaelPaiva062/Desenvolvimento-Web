@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/caelum-arquivos-curso-web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desenvolvimento-Web"
+	}
+}
