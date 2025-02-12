@@ -1,7 +1,7 @@
 
 p{
-    color: blue;
-    background-color: yellow;
+    color: while(33, 33, 70);
+    background-color: rgb(48, 48, 45);
 }
 h1{
     font-family: serif;
@@ -23,4 +23,7 @@ p {
     letter-spacing: 3px; /* tamanho do espaço entre cada letra */
     word-spacing: 5px; /* tamanho do espaço entre cada palavra */
     text-indent: 30px; /* tamanho da margem da primeira linha do texto */
+}
+h1 {
+    background-image: url(https://res.cloudinary.com/drbxzprqv/image/upload/v1739295249/samples/cup-on-a-table.jpg);
 }
