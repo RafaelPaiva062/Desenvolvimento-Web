@@ -1,0 +1,19 @@
+body{
+    color:#333333;
+    font-family: "Lucida Sans Unicode","Lucido Grande",sans-serif ;
+}
+h1{
+   background-image: url(https://res.cloudinary.com/drbxzprqv/image/upload/v1739295354/Web-D_wed/dc0vgehv6e6xygk05ybg.jpg);
+}
+h2{
+
+    border-bottom: 2px solid #333333;
+}
+figure {
+    background-color: #F2EDED;
+    border: 1px solid #ccc;
+    text-align: center;
+    }
+    figcaption {
+    font-style: italic;
+    }
