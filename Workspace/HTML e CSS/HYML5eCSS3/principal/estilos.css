@@ -1,0 +1,18 @@
+.sacola{
+    background: url(https://res.cloudinary.com/drbxzprqv/image/upload/v1739295354/Web-D_wed/vhoifgsaw092c9oxywck.png) no-repeat top right;
+
+    font-size: 15px;
+    padding-right: 35px;
+    text-align: right;
+    width: 140px;
+}
+.menu-opcoes ul {
+    font-size: 15px;
+}
+.menu-opcoes a{
+color: #003366;
+}
+body {
+    color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    }
